@@ -1,7 +1,7 @@
 # dbt_demo1
 
 ## Description
-This project aims to examine hot DBT (Data Building Tool) is used in building and managing SQL pipelines in a BigQuery (GCP).
+This project aims to examine how DBT (Data Building Tool) is used in building and managing SQL pipelines in a BigQuery (GCP).
 
 ## Data
 Placeholder.

@@ -19,11 +19,15 @@ We are using the BQ public dataset called 'medicare'.
 10. Run DBT. It will materialze the resulting query as a view.
 11. To change the view to a table, we can change the query in DBT to include code to materalize as a table.
 
+I would like to acknowledge the YouTube channel 'SkillCurb' and its video [Google BigQuery and DBT| Build SQL Data Pipeline - Hands on lab](https://youtu.be/_C_pYeuF6_s?si=CrY2Vf8XqNJtsYtU)
+
 ## Results
-Placeholder.
+In this small project, we have been able to use DBT connected to BQ making a simple transformation.
+The takeaway for me was that you can engineer SQL scripts and run them in a sequence of dependency that you have previously set up in DBT.
+It is basically handling the set up of pipelines in an orderly fashion where you can execute the run of the whole DBT model from one place. 
 
 ## Usage
-To run the code, clone this repository and ensure you have the required libraries installed. Execute the main script to train the model and make predictions.
+To run the code, clone this repository and ensure you follow the steps in Methodology.
 
 ## License
 This project is licensed under the MIT License.
